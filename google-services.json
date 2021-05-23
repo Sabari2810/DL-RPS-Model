@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421566208136",
+    "project_id": "fir-brew-crew-53efd",
+    "storage_bucket": "fir-brew-crew-53efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421566208136:android:4b219a44b1b68a1af9e73d",
+        "android_client_info": {
+          "package_name": "com.sabarii.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421566208136-28gd58fe9sd09ojj6stru5rbn0u5ikk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWizC4a97vKUvBcO8hFL0Tdyc7kyA10lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421566208136-28gd58fe9sd09ojj6stru5rbn0u5ikk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
